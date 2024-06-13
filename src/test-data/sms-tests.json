@@ -1,0 +1,7 @@
+{
+  "phoneCountryCode": "Country code for your phone",
+  "phoneNumber": "Your phone number with country code",
+  "message": "TextMessage",
+  "userId": 1,
+  "isOptedIn": true
+}
